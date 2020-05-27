@@ -1,0 +1,2 @@
+# Finding-The-Best-Markets-To-Advertise-In
+(Please open on nbviewer - link below).Many companies looking to increase revenues have to optimize their investiments in advertisement. That's the idea behind this project. I cleaned and analysed data from a survey conducted by freeCodeCamp and found out where the most visitors of the platform are located as well as how much they spend on learning every month. Finally, I created an interactive map that summarises all this information. 
